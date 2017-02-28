@@ -4,6 +4,7 @@ let addAndRemoveSettingBtn = type => e => {
   e.preventDefault();
 
 
-zmz says you are stupid and mad;
+zmz says you is stupid and and, zy says you are not stupid;
 
-zmz says you must learn git!!
+
+zmz and zy says you must learn and master git!!
