@@ -1,7 +1,4 @@
 this is from day one branch
 this is from master branch
-<<<<<<< HEAD
 this is bug;
-=======
 this is dev;
->>>>>>> dev
