@@ -5,3 +5,5 @@ let addAndRemoveSettingBtn = type => e => {
 
 
 zmz says you are stupid;
+
+zmz says you must learn git!!
