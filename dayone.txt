@@ -1,1 +1,4 @@
 1
+let addAndRemoveSettingBtn = type => e => {
+  e.stopPropagation();
+  e.preventDefault();
