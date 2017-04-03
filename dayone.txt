@@ -1,0 +1,10 @@
+1
+let addAndRemoveSettingBtn = type => e => {
+  e.stopPropagation();
+  e.preventDefault();
+
+
+zmz says you is stupid and and, zy says you are not stupid;
+
+
+zmz and zy says you must learn and master git!!
