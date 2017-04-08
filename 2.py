@@ -18,10 +18,10 @@ for key, value in me.items():
   pass
 
 #切片 和使用数组下标
-list10 = [x for x in range(0,100)][-20::5]
+# list10 = [x for x in range(0,100)][-20::5]
 # print(list10)
-for index, value in enumerate(list10):
-  # print("使用enumerate方法使遍历list数组的时候获取--下标: %s --值: %s" %(index, value))
+for index, value in enumerate([x for x in range(0,100)][-20::5]):
+  print("使用enumerate方法使遍历list数组的时候获取--下标: %s --值: %s" %(index, value))
   pass
 
 #列表生成式 变量开始名称为co
